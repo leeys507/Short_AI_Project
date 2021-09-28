@@ -1,1 +1,1 @@
-# stm_AI_Project
+# Short_Term_AI_Project
